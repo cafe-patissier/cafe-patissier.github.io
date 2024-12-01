@@ -1,1 +1,1 @@
-Creation of page layout for each web page.
+This is a static website, created for a Web Development case study.

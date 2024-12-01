@@ -455,7 +455,7 @@ body {
         width: auto;
         height: 400px;
         padding: 0;
-        align-items: center;
+        justify-content: center;
         margin: 0;
     }
 
@@ -463,6 +463,8 @@ body {
         font: bold 3rem "Crimson Text", serif;
         color: #432818;
         text-align: center;
+        padding: 0;
+        margin: 0;
     }
 
     .aboutUs-desc {
@@ -472,6 +474,7 @@ body {
         font: 1rem "Crimson Text", serif;
         color: #432818;
         margin-right: 20px;
+        padding: 0;
     }
 
     #cafe-pic-bg {

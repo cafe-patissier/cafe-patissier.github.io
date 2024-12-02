@@ -185,7 +185,7 @@ body {
     .container {
         display: flex;
         flex-direction: column;
-        width: 360px;
+        width: 350px;
         height: auto;
         align-items: center;
         justify-content: center;
@@ -228,7 +228,7 @@ body {
         border: 2px solid #432818;
         border-radius: 20px;
         position: relative;
-        width: 360px;
+        width: 350px;
         height: 350px;
         color: #ffe6a7;
         display: grid;
@@ -277,7 +277,7 @@ body {
         border: 2px solid #432818;
         border-radius: 20px;
         position: relative;
-        width: 360px;
+        width: 350px;
         height: 250px;
         padding: 0 10px;
         margin: 10px 0;

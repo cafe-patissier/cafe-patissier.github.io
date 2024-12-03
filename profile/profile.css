@@ -200,13 +200,14 @@ body {
     .profile-container {
         display: grid;
         width: 340px;
-        height: auto;
+        height: 50px;
         grid-template-columns: 70px 270px;
+        margin: 10px 0;
     }
 
     #pfp-icon {
-        width: 70px;
-        height: 70px;
+        width: 50px;
+        height: 50px;
         border: 2px solid #432818;
         border-radius: 999px;
     }

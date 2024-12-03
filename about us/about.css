@@ -457,6 +457,7 @@ body {
         padding: 0;
         justify-content: center;
         margin: 0;
+        overflow: hidden;
     }
 
     .aboutUs-title {

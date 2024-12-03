@@ -479,7 +479,7 @@ body {
     }
 
     #cafe-pic-bg {
-        width:60vw;
+        width:500px;
         height: 400px;
         background: url(/assets/images/cafe_bg.webp) center;
         object-fit: cover;

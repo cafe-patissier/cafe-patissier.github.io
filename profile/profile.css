@@ -197,11 +197,17 @@ body {
         color: #432818;
     }
 
+    .profile-container {
+        display: grid;
+        width: 340px;
+        height: auto;
+        grid-template-columns: 70px 270px;
+        place-items: center;
+    }
+
     #pfp-icon {
-        width: 75px;
-        height: 75px;
-        position: relative;
-        right: 155px;
+        width: 70px;
+        height: 70px;
         border: 2px solid #432818;
         border-radius: 999px;
     }
@@ -210,9 +216,6 @@ body {
         background-color: #99582a;
         border: 2px solid #432818;
         border-radius: 50px;
-        position: relative;
-        bottom: 60px;
-        left: 20px;
         width: 250px;
         height: 40px;
         display: flex;

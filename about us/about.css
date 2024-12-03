@@ -477,13 +477,6 @@ body {
         padding: 0;
     }
 
-    .image-container {
-        width: 60vw;
-        height: 400px;
-        margin: 0;
-        overflow: hidden;
-    }
-
     #cafe-pic-bg {
         width: 60vw;
         height: 400px;

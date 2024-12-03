@@ -281,7 +281,7 @@ body {
         position: relative;
         width: 340px;
         height: 250px;
-        padding: 0 10px;
+        padding: 0 5px;
         margin: 10px 0;
         box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
         display: flex;

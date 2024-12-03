@@ -452,7 +452,7 @@ body {
     /*About Us*/
     .cointainer {
         display: flex;
-        width: 100vw;
+        width: 40vw;
         height: 400px;
         padding: 0;
         justify-content: center;

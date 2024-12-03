@@ -479,6 +479,7 @@ body {
     }
 
     #cafe-pic-bg {
+        float: right;
         width:500px;
         height: 400px;
         background: url(/assets/images/cafe_bg.webp) center;

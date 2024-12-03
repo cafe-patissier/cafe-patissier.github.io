@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
             localStorage.removeItem("loggedInUser"); // Clear the logged-in user
             alert("You have successfully logged out.");
             checkLoginStatus(); // Update button visibility
-            window.location.href = "/home.html"; // Redirect to the home page (or a landing page)
+            window.location.href = "/index.html"; // Redirect to the home page (or a landing page)
         });
 
         // Sign In functionality

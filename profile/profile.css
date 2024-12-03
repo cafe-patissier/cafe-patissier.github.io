@@ -629,6 +629,8 @@ body {
         flex-direction: column;
         color: #ffe6a7;
         font: bold 1rem "Crimson Text", serif;
+        align-items: center;
+        justify-content: center;
     }
 
     .open-history-button {

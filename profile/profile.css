@@ -203,6 +203,7 @@ body {
         height: 50px;
         grid-template-columns: 70px 270px;
         margin: 10px 0;
+        place-items: center;
     }
 
     #pfp-icon {

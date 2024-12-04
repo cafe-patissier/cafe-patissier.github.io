@@ -23,6 +23,10 @@ function confirmExtras() {
     alert("Extras successfully added");
 }
 
+function orderConfirmed() {
+  window.location.href = "/orders/orders.html";
+}
+
 /* Quantity Selector */
 document.addEventListener("DOMContentLoaded", () => {
     const cart = document.querySelector(".container");

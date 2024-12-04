@@ -285,7 +285,7 @@ body {
     .add-ons {
         display: none;
         width: 300px;
-        height: 200px;
+        height: 300px;
         position: fixed;
         z-index: 999;
         background-color: #ffe6a7;
@@ -753,7 +753,7 @@ body {
     .add-ons {
         display: none;
         width: 300px;
-        height: 200px;
+        height: 300px;
         position: fixed;
         z-index: 999;
         background-color: #ffe6a7;
